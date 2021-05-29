@@ -1,11 +1,11 @@
 # CS245 course project for Principles Of Data Science
 
-Project1: Dimensionality Reduction 
+* Project1: Dimensionality Reduction 
 
-Project2: Distance Metric Learning
+* Project2: Distance Metric Learning
 
-Project3: Feature Encoding
+* Project3: Feature Encoding
 
-Project4: Domain Adaptation
+* Project4: Domain Adaptation
 
 Just building wheels for overloaded and repetitve work😅
